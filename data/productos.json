@@ -1,0 +1,7 @@
+[
+    { "id": 1, "nombre": "The Witcher 3: Wild Hunt", "descripcion": "RPG de acción y aventuras.", "precio": 39.99, "imagen": "juego1.webp", "categoria": "rpg" },
+    { "id": 2, "nombre": "Cyberpunk 2077", "descripcion": "RPG de mundo abierto en una futurista megalópolis.", "precio": 59.99, "imagen": "juego2.webp", "categoria": "rpg" },
+    { "id": 3, "nombre": "Red Dead Redemption 2", "descripcion": "Aventura épica en el viejo oeste.", "precio": 49.99, "imagen": "juego3.webp", "categoria": "aventura" },
+    { "id": 4, "nombre": "Doom Eternal", "descripcion": "FPS con acción frenética.", "precio": 29.99, "imagen": "juego4.webp", "categoria": "fps" },
+    { "id": 5, "nombre": "Resident Evil Village", "descripcion": "Survival horror en una aldea siniestra.", "precio": 59.99, "imagen": "juego5.webp", "categoria": "horror" }
+]

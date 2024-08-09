@@ -1,0 +1,44 @@
+
+body {
+    background-color: #1b2838; 
+    color: #c7d5e0; 
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar, .footer {
+    background-color: #171a21;
+    color: #c7d5e0;
+}
+
+.nav-link {
+    color: #c7d5e0;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+}
+
+.card {
+    background-color: #2a475e;
+    border: none;
+}
+
+.card-body {
+    color: #c7d5e0;
+}
+
+.btn-primary {
+    background-color: #5c7e10;
+    border-color: #5c7e10;
+}
+
+.btn-primary:hover {
+    background-color: #6b8e23;
+    border-color: #6b8e23;
+}
+
+.alert {
+    background-color: #2a475e;
+    color: #c7d5e0;
+    border-color: #5c7e10;
+}
